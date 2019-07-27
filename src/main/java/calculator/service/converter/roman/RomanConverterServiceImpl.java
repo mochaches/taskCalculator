@@ -3,7 +3,6 @@ package calculator.service.converter.roman;
 import calculator.exception.IncorrectCommandException;
 import calculator.service.converter.ConverterService;
 
-import java.text.MessageFormat;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
