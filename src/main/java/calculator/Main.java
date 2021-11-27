@@ -7,6 +7,6 @@ public class Main {
     public static void main(String[] args) {
         OperationService operationService = new OperationServiceImpl();
         operationService.identification();
-        System.out.println(); //Добавлен комментарий
+        System.out.println("a"); //Добавлен комментарий
     }
 }
